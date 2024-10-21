@@ -1,1 +1,5 @@
 hw1_Word2Vec/dataset
+hw2_NER/eojeol_etri_tokenizer/
+hw2_NER/eojeol_etri_tokenizer.zip
+hw2_NER/ner_eojeol_label_per_line.txt
+hw2_NER/vocab.korean.rawtext.list
